@@ -30,7 +30,7 @@ switch (new Date().getDay()) {
 		day = "Tuesday"
 		break;
 	case 3:
-		day = "Wensday"
+		day = "Wednesday"
 		break;
 	case 4:
 		day = "Thursday"
